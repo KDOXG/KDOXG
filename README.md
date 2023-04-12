@@ -1,8 +1,16 @@
 ## 👋 Hi, I’m @KDOXG!
 
 - 💻 Lead Programmer at [Otaku TeamWorks]. Developing the game EdelSuche: Cecilia's Quest.
-- 📚 Interested in high performance programming. (Multithreading, GPU, FPGA hardware design)
+- 📚 Interested in high performance programming. (Multithreading, GPU, Distributed systems, FPGA + hardware design)
 
+### GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=KDOXG&show_icons=true&hide_border=true)
+
+### Most Used Languages
+![mostused](https://github-readme-stats.vercel.app/api/top-langs/?username=KDOXG&langs_count=10&hide=javascript,css,html&hide_progress=true)
+
+[email]: mailto:kevin.20pereira@gmail.com
+[linkedin]: https://www.linkedin.com/in/kevin-soares-pereira/
 [Otaku TeamWorks]: https://otakuteamworks.net
 
 <!---
