@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @KDOXG!
+## 👋 Hi, I’m KDOXG!
 
 - 💻 Lead Programmer at [Otaku TeamWorks]. Developing the game EdelSuche: Cecilia's Quest.
 - 📚 Interested in high performance programming. (Multithreading, GPU, Distributed systems, FPGA + hardware design)
