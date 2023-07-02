@@ -93,9 +93,6 @@
 <a href="https://www.libsdl.org">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-plain.svg" style="width: 32px;" title="SDL" />
 </a>
-<a href="https://numpy.org">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="width: 32px;" title="NumPy" />
-</a>
 <a href="https://www.arduino.cc">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="width: 32px;" title="Arduino" />      
 </a>
