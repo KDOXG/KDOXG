@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m KDOXG!
 
-- 🖥️ Lead Programmer & Game Designer at [Otaku TeamWorks]. Developing the game EdelSuche: Cecilia's Quest.
+- 🖥️ Lead Programmer & Game Designer at [Otaku TeamWorks] (Jan 2023 - today). Developing the game EdelSuche: Cecilia's Quest.
 - 💻 Back-end developer. (Java Spring, SQL & NoSQL Database)
 - 📚 Interested in high performance programming & developing. (Multithreading, GPU, Distributed systems, FPGA + hardware design)
 - 📬 My Telegram group for programming advices (PT-BR): [Apoio de Programação em C, C++, C# e Bibliotecas]([programacaoemc])
