@@ -4,7 +4,7 @@
   - Platformer game [Edelsuche: Cecilia's Quest].
   - Rogue-like twin-stick shooter game [Spatial Savior Biganger].
 - 💻 Back-end developer. (Java Spring, SQL & NoSQL Database)
-- 📚 Interested in high performance programming & developing. (Multithreading, GPU, Distributed systems, FPGA + hardware design)
+- 📚 Interested in high performance programming & project. (Multithreading, GPU, Distributed systems, FPGA + hardware design)
 - 📬 My Telegram group for programming advices (PT-BR): [Apoio de Programação em C, C++, C# e Bibliotecas]([programacaoemc])
 
 ### My Techs
