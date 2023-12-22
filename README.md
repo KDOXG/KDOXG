@@ -1,6 +1,8 @@
 ## 👋 Hi, I’m KDOXG!
 
-- 🖥️ Lead Programmer & Game Designer at [Otaku TeamWorks] (Jan 2023 - today). Developer of 2D action platformer game EdelSuche: Cecilia's Quest, made on Godot Engine.
+- 🖥️ Lead Programmer & Game Designer at [Otaku TeamWorks] (Jan 2023 - today). Developer of 2D pixel art action games made with Godot Engine.
+  - Platformer game [Edelsuche: Cecilia's Quest].
+  - Rogue-like twin-stick shooter game [Spatial Savior Biganger].
 - 💻 Back-end developer. (Java Spring, SQL & NoSQL Database)
 - 📚 Interested in high performance programming & developing. (Multithreading, GPU, Distributed systems, FPGA + hardware design)
 - 📬 My Telegram group for programming advices (PT-BR): [Apoio de Programação em C, C++, C# e Bibliotecas]([programacaoemc])
@@ -105,6 +107,8 @@
 [email]: mailto:kevin.20pereira@gmail.com
 [linkedin]: https://www.linkedin.com/in/kevin-soares-pereira/
 [Otaku TeamWorks]: https://otakuteamworks.net
+[Edelsuche: Cecilia's Quest]: https://otaku-teamworks.itch.io/edelsuche-cecilias-quest
+[Spatial Savior Biganger]: https://otaku-teamworks.itch.io/spatial-savior-biganger
 
 <!---
 KDOXG/KDOXG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
