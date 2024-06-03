@@ -5,7 +5,7 @@
   - Rogue-like twin-stick shooter game [Spatial Savior Biganger].
 - 💻 Back-end developer. (Java Spring, SQL & NoSQL Database)
 - 📚 Interested in high performance programming & project. (Multithreading, GPU, Distributed systems, FPGA + hardware design)
-- 📬 My Telegram group for programming help (PT-BR): [Apoio de Programação em C, C++, C# e Bibliotecas]([programacaoemc])
+- 📬 My Telegram community group for programming troubleshooting (PT-BR): [Apoio de Programação em C, C++, C# e Bibliotecas]([programacaoemc])
 
 ### My Techs
 #### ⭐ Expert
