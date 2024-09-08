@@ -1,11 +1,10 @@
 ## 👋 Hi, I’m KDOXG!
 
-- 🖥️ Lead Programmer & Game Designer at [Otaku TeamWorks] (Jan 2023 - today). Developer of 2D pixel art action games made with Godot Engine.
+- 🖥️ Lead Programmer & Game Designer at [Otaku TeamWorks] (Jan 2023 - today). Developer of 2D pixel art action games made in Godot Engine.
   - Platformer game [Edelsuche: Cecilia's Quest].
   - Rogue-like twin-stick shooter game [Spatial Savior Biganger].
 - 💻 Back-end developer. (Java Spring, SQL & NoSQL Database)
 - 📚 Interested in high performance programming & design. (Multithreading, GPU, Distributed systems, FPGA / ASIC design)
-- 📬 My Telegram community group for programming troubleshooting (PT-BR): [Apoio de Programação em C, C++, C# e Bibliotecas]([programacaoemc])
 
 ### My Techs
 #### ⭐ Expert
@@ -59,9 +58,6 @@
 <a href="trello.com">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" style="width: 32px;" title="Trello" />
 </a>
-<a href="https://gohugo.io">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" style="width: 32px;" title="Hugo" />
-</a>
 
 #### 💻 Experience
 
@@ -97,6 +93,9 @@
 </a>
 <a href="https://www.arduino.cc">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="width: 32px;" title="Arduino" />      
+</a>
+<a href="https://gohugo.io">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" style="width: 32px;" title="Hugo" />
 </a>
 
 ### GitHub Stats
