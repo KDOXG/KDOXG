@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m KDOXG!
 
-- 🖥️ Lead Programmer & Game Designer at [Otaku TeamWorks] (Jan 2023 - today). Developer of 2D pixel art action games made in Godot Engine.
+- 🖥️ Lead Programmer & Game Designer at [Otaku TeamWorks] (Jan 2023 - Jan 2024). Developer of 2D pixel art action games made in Godot Engine.
   - Platformer game [Edelsuche: Cecilia's Quest].
   - Rogue-like twin-stick shooter game [Spatial Savior Biganger].
 - 💻 Back-end developer. (Java Spring, SQL & NoSQL Database)
