@@ -51,7 +51,7 @@
 <a href="https://git-scm.com">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 32px;" title="Git" />
 </a>
-<a href="trello.com">
+<a href="https://trello.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" style="width: 32px;" title="Trello" />
 </a>
 
