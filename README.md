@@ -5,7 +5,7 @@
 ### My Techs
 #### ⭐ Expert
 <a href="https://www.open-std.org/jtc1/sc22/wg14/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" style="width: 32px;" title="C" />
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/c/default.svg" style="width: 32px;" title="C" />
 </a>
 <a href="https://isocpp.org">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" style="width: 32px;" title="C++" />
@@ -26,7 +26,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" style="width: 32px;" title="PostgreSQL" />
 </a>
 <a href="https://www.mysql.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" style="width: 32px;" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/mysql/default.svg" style="width: 32px;" title="MySQL" />
 </a>
 <a href="https://spring.io">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="width: 32px;" title="Spring" />
@@ -61,7 +61,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" style="width: 32px;" title="Docker" />
 </a>
 <a href="https://cassandra.apache.org">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" style="width: 32px;" title="Cassandra" />
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/cassandra/default.svg" style="width: 32px;" title="Cassandra" />
 </a>
 <a href="https://tomcat.apache.org">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" style="width: 32px;" title="Tomcat" />
