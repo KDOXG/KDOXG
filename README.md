@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m KDOXG!
 
-[Check my portfolio here]
+# [Portfolio]
 
 ### My Techs
 #### ⭐ Expert
