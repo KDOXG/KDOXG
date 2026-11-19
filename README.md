@@ -104,7 +104,7 @@
 [Otaku TeamWorks]: https://otakuteamworks.net
 [Edelsuche: Cecilia's Quest]: https://otaku-teamworks.itch.io/edelsuche-cecilias-quest
 [Spatial Savior Biganger]: https://otaku-teamworks.itch.io/spatial-savior-biganger
-[Check my portfolio here]: https://kdoxg.github.io/
+[Portfolio]: https://kdoxg.github.io/
 
 <!---
 KDOXG/KDOXG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
